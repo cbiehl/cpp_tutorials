@@ -1,0 +1,1 @@
+./Debug/Student.cpp.o ./Debug/Person.cpp.o ./Debug/main.cpp.o

@@ -1,0 +1,1 @@
+./Debug/PatternPrinter.cpp.o ./Debug/main.cpp.o ./Debug/CharGenerator.cpp.o

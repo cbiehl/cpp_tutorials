@@ -1,0 +1,1 @@
+./Debug/ElevatorStrategy.cpp.o ./Debug/main.cpp.o ./Debug/Person.cpp.o ./Debug/SimpleElevatorStrategy.cpp.o ./Debug/Building.cpp.o ./Debug/Floor.cpp.o ./Debug/Elevator.cpp.o
